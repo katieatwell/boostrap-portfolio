@@ -1,0 +1,58 @@
+.main-section {
+    width: 100%;
+    border: solid;
+    border-color: #ebebeb;
+    text-align: left;
+    clear: both;
+    height: 100%;
+    line-height: 25px;
+    float: left;
+    font-size: medium;
+    padding: 5px 10px 5px 10px;
+    margin: 10px 10px 10px 40px;
+}
+
+.auth-image {
+    width: 70%;
+    float: left;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+    overflow: auto;
+    padding-left: 10px
+}
+
+.social {
+    width: 20%;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+
+.panel {
+    margin-top: 20px;
+    text-align: center;
+    clear: both;
+}
+
+footer {
+    padding: 30px 0;
+    clear: both;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    font-size: 12px;
+    color: #fff;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+}
+
+.portimg {
+    float: left;
+    width: 100%;
+    margin: 10px;
+    clear: both;
+}
